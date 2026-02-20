@@ -19,8 +19,8 @@ A classic Snake Game built using **Java Swing**. The game features real-time sna
 ## Screenshots:
 
 <p align="center">
-  <img Snakegame/src="./Screenshot1.png" alt="Snake Game Screenshot 1" width="300"/>
-  <img Snakegame/src="./Screenshot2.png" alt="Snake Game Screenshot 2" width="300"/>
+  <img src="./Screenshot1.png" alt="Snake Game Screenshot 1" width="300"/>
+  <img src="./Screenshot2.png" alt="Snake Game Screenshot 2" width="300"/>
 </p>
 
 ---
